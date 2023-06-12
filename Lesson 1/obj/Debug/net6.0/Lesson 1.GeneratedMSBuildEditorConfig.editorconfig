@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Hello_world
-build_property.ProjectDir = C:\Users\klonk\OneDrive\Рабочий стол\BIA\Программирование на C#\Prog\Start lesson\Hello world\
+build_property.RootNamespace = Lesson_1
+build_property.ProjectDir = c:\Users\klonk\OneDrive\Рабочий стол\BIA\Программирование на C#\Prog\Lesson 1\
